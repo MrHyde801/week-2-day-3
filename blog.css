@@ -1,0 +1,30 @@
+html, body, h1, h2, h3, h4, ul, ol, li, p, a {
+    padding: 0;
+    border: 0;
+    margin: 0;
+    font: inherit;
+    font-size: 100%;
+    font-family: Helvetica, sans-serif, "Times New Roman";
+    color: white;
+    text-align: center;
+}
+h1  {
+    font-size: 50px;
+    padding-top:200px;
+    line-height: 200%;
+}
+h2 {
+    margin-right: 20px;
+    display: inline;
+}
+body {
+    background: black url(images/space-image.png) repeat;
+}
+body .header {
+    background-color: black;
+    height: 20px;
+    padding: 10px 0 10px 0;
+}
+body .title {
+    line-height: 10px;
+}
